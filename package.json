@@ -26,7 +26,7 @@
     "gulp-svgmin": "^1.2.0",
     "gulp-uglify": "^1.2.0",
     "gulp-watch": "^4.3.5",
-    "imagemin-pngquant": "^4.1.2"
+    "imagemin-pngquant": "^5.0.1"
   },
   "dependencies": {
     "gulp-autoprefixer": "^4.0.0",
