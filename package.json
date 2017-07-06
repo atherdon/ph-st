@@ -9,7 +9,7 @@
   "license": "",
   "devDependencies": {
     "autoprefixer": "^5.2.0",
-    "clone": "^1.0.2",
+    "clone": "^2.1.1",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^4.0.0",
     "gulp-base64": "^0.1.3",
